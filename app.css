@@ -1,0 +1,94 @@
+h2 {
+    font-family: fantasy;
+}
+body {
+background-color:lightgray;
+
+}
+h2,p,.readme-wrapper {
+    text-align: center;
+}
+a:hover {
+    cursor:pointer ;
+    font-weight:bold;
+    color: lime;
+}
+a {
+    text-decoration: none;
+}
+span {
+    color: maroon;
+    font-weight:200;
+}
+div>.boxes {
+    margin: 1%;
+    padding: 1%;
+    border:black 1px solid;
+    border-radius:5px; 
+    width:30em ;
+    display:block ;
+}
+div>#box1 {
+    background-color: burlywood;   
+
+}
+div>#box2 {
+    background-color: coral;
+     /* position:absolute; */
+     /* left: 550px; */
+     /* bottom:1104px ; */
+}
+div>#box3 {
+    background-color: deepskyblue;
+}
+div>#box4 {
+    background-color: gold;
+    
+}
+div>.image {
+    height:50px;
+    width:50px;
+    border-radius:50px;
+    background-color: indigo;
+    position: relative;
+    top: 54px;
+    right:15px;  
+}
+h1 {
+    color: lawngreen;
+}
+.original {
+    color: magenta;
+}
+.additional {
+    color: mediumaquamarine;
+}
+#rank1 {
+    color: mediumpurple;
+}
+#rank2 {
+    color: mediumseagreen;
+}
+#rank3 {
+    color: mediumspringgreen;
+}
+#rank4 {
+    color: rgb(245, 245, 255);
+}
+#rank5 {
+    color: moccasin;
+}
+.list {
+    color: orange;
+    border:2px solid black ;
+}
+
+.star {
+    color: navy;
+    border:2px solid black;
+}
+#wars {
+    color: olive;
+    border:2px solid black;
+}
+
